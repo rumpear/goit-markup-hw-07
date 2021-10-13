@@ -349,16 +349,11 @@ input {
   color: var(--accent-color);
 }
 
-.button-modal-centered {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* .button-modal {
-  background-color: #188ce8;
+.modal__button {
   padding: 10px 56px;
-} */
+  display: block;
+  margin: 0 auto;
+}
 
 /* BODY */
 
