@@ -383,7 +383,7 @@ body {
   border-bottom: 1px solid #ececec;
 }
 
-.header-content {
+.header__content {
   display: flex;
   align-items: center;
 }
@@ -559,7 +559,7 @@ body {
   margin-right: 30px;
 } */
 
-.advantage-item__title {
+.advantage__item-title {
   font-size: 14px;
   font-weight: 700;
   line-height: 1.14;
@@ -567,7 +567,7 @@ body {
 
   margin-bottom: 10px;
 }
-.advantage-item__text {
+.advantage__item-text {
   color: var(--secondary-text-color);
   line-height: 1.71;
 }
@@ -663,7 +663,7 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 
-.team-item__title {
+.team__item-title {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.18;
@@ -671,7 +671,7 @@ body {
   margin-bottom: 10px;
 }
 
-.team-item__text {
+.team__item-text {
   color: var(--secondary-text-color);
   font-size: 16px;
   line-height: 1.18;
@@ -817,7 +817,7 @@ body {
   color: var(--accent-color);
 }
 
-.footer-social-block {
+.footer__social-block {
   padding-top: 12px;
   /* margin-right: 93px; */
 }
@@ -868,7 +868,7 @@ body {
   fill: currentColor;
 }
 
-.footer-form-block {
+.footer__form-block {
   padding-top: 12px;
   margin-left: auto;
 }
